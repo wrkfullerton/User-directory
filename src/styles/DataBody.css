@@ -1,0 +1,11 @@
+.name-cell {
+    text-transform: capitalize;
+}
+
+.img-responsive {
+    border-radius: 999%;
+}
+
+.name-cell {
+    font-weight: bold;
+}
